@@ -96,6 +96,8 @@
                         $message = test_input($_POST["message"]);
                     }
 
+                    $time = test_input(date("Y/m/d"));
+
                 }
             ?>
 
@@ -136,7 +138,7 @@
             <p><strong>Phone Number: </strong><?php echo $phone_number ?></p>
             <p><strong>Subject: </strong><?php echo $subject ?></p>
             <p><strong>Message: </strong><?php echo $message ?></p>
-
+            <p><strong>Time: </strong><?php echo $time ?></p>
         </div>
 
     </body>
