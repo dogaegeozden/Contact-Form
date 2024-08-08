@@ -19,7 +19,7 @@ This is a web application that accepts messages for a fictional company.
 
 1) Update and upgrade your linux server/machine.
 
-	   sudo apt updage && sudo apt upgrade
+	   sudo apt update && sudo apt upgrade
 
 2) Install dependencies.
 
