@@ -4,7 +4,6 @@ This is a web application that accepts messages for a fictional company.
 
 ## Features:
 
-- Displays server information
 - Allows users to submit contact message form
 - Validates input
 
